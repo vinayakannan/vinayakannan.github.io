@@ -1,0 +1,110 @@
+.nav {
+    margin-top: 15px;
+    
+    height: 3cm;
+    font-style:normal;
+}
+.nav-item .nav-link {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    float:left;
+    color: bisque;
+    margin-block-end: 10%;
+    font-weight: bold;
+    
+}
+
+.carousel-caption{
+    bottom: 180px;
+    padding-left: 100px;
+    padding-right: 100px;
+    top: 170px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.carousel-caption h5{
+    font-size: 100px;
+    font-weight: 700;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.carousel-caption p{
+    font-size: 18px;
+    color: aliceblue;
+    top: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.slider-btn .btn{
+    background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+
+}
+.slider-btn .btn-2{
+    background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+.carousel-item img{
+    height: 20cm;
+    width: 20cm;
+}
+.card-group{
+    margin: 5px;
+    
+}
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.card img {
+    height: 7cm;
+    object-fit: absolute;
+    background-color: black;
+    opacity: 7;
+
+  }
+
+.card-group{
+    margin-top: 10px;
+}
+.carousel-caption h3{
+    font-style: italic;
+    color: beige;
+}
+.carousel-item img{
+    height: 15.5cm;
+}
+.icons {
+    float: right;
+    size:100% ;
+    position: absolute;
+    margin-left: 46%;
+    top: 85%;
+    color:white;
+    font-size:xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:bolder;
+    color-scheme: white;
+
+   
+}
+#logo img{
+    height: 1cm;
+    width: 1cm;
+    float: left;
+    margin-left: 57rem;
+}
+.vin{
+    color: cornsilk;
+} 

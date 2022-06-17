@@ -1,0 +1,27 @@
+.form-label{
+    color: aliceblue;
+    font-style: normal;
+    font-weight: bold; 
+    
+}
+.myMargin{
+    position: absolute;
+    margin-left: 34rem
+    
+    
+    
+}
+.form-check-label{
+    color: aliceblue;
+    margin-top: 2px;
+}
+.form-check{
+    margin-top: 5px;
+}
+.col-lg-3{
+    margin-top: 8rem;
+}
+.row{
+    margin-left: 50px;
+    margin-right: 50px;
+}

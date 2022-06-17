@@ -1,0 +1,26 @@
+.nav{
+    margin-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bolder;
+    background-color: silver;
+}
+.container{
+    margin-top: 8px;
+}
+.col img{
+    height:15cm;
+    margin-left: 5px;
+    padding-left: 5px;
+
+}
+body {
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  .card{
+    margin-left: 50px;
+    
+  }
